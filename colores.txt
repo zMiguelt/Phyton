@@ -1,4 +1,6 @@
 azul 
 rojo 
 verde 
-morado 
+morado
+amarillo 
+blanco
